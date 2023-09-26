@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TharunSatya/satyasai.git/static/css/main.c05d4fdf.css",
-    "main.js": "/TharunSatya/satyasai.git/static/js/main.a7276082.js",
-    "static/js/787.719ec76d.chunk.js": "/TharunSatya/satyasai.git/static/js/787.719ec76d.chunk.js",
-    "index.html": "/TharunSatya/satyasai.git/index.html",
-    "main.c05d4fdf.css.map": "/TharunSatya/satyasai.git/static/css/main.c05d4fdf.css.map",
-    "main.a7276082.js.map": "/TharunSatya/satyasai.git/static/js/main.a7276082.js.map",
-    "787.719ec76d.chunk.js.map": "/TharunSatya/satyasai.git/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/satyasai/static/css/main.c05d4fdf.css",
+    "main.js": "/satyasai/static/js/main.66184235.js",
+    "static/js/787.719ec76d.chunk.js": "/satyasai/static/js/787.719ec76d.chunk.js",
+    "index.html": "/satyasai/index.html",
+    "main.c05d4fdf.css.map": "/satyasai/static/css/main.c05d4fdf.css.map",
+    "main.66184235.js.map": "/satyasai/static/js/main.66184235.js.map",
+    "787.719ec76d.chunk.js.map": "/satyasai/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c05d4fdf.css",
-    "static/js/main.a7276082.js"
+    "static/js/main.66184235.js"
   ]
 }
